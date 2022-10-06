@@ -377,7 +377,7 @@ h4 .fa {
 .contact a:hover {
   background: orangered;
 }
-/* -----two way to text positioning center one is apply display flex and another is commented----- */
+/* -----two way to text positioning center. one is apply on position properties and another is display flex----- */
 
 .text-middle {
   width: 80%;
